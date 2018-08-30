@@ -1,0 +1,21 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.pyc
+*.pyo
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Java:
+*.class
+
+# My configurations:
+db.ini
+deploy_key_ras
